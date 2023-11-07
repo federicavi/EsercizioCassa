@@ -1,15 +1,11 @@
-# EsercizioCassa
-oop in c#
 
-ESERCIZIO CASSA
+Primi passi verso la PROGRAMMAZIONE ORIENTATA AD OGGETTI. 
 
-Creare una classe cassa che serva a rappresentare la cassa di un negozio; 
-ogni cassa conserva una quantità di denaro all’interno che può aumentare nel tempo man mano che i clienti effettuano acquisti, 
-la cassa ogni giorno memorizza il numero di acquisti del negozio. 
-A fine giornata si dà alla cassa il comando “chiusura cassa” che riporta la quantità di denaro presente in cassa a una quantità iniziale “fondo cassa”, 
-restituendo quando incassato e azzera il numero di acquisti, predisponendo la cassa per il suo uso nel giorno successivo. 
-NB: la cassa non mantiene in memoria quanti acquisti sono stati fatti nei giorni precedenti.
-Si creino anche i relativi metodi set e get dove sensato.
+Esercizio utile soprattutto per riflettere sui modificatori di visibiltà e garantirne un uso corretto.
 
-Creare un main che crei un’istanza di cassa e la provi con un menu che chiede cosa fare
+Ho potuto sperimentare l'uso di funzioni private all'interno della classe stessa e capirne la ragion d'essere.
+
+Un altro traguardo importante ha riguardato inserire come attributo di classe un oggetto, grazie al quale poter accedere o modificare l'Ogetto in questione:
+per cui l'attributo-oggetto di tipo Stampante può accedere o manipolare un oggetto Stampante all'interno della classe Cassa.
+
 
