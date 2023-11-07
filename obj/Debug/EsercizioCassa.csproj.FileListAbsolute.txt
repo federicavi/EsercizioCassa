@@ -1,0 +1,8 @@
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\bin\Debug\EsercizioCassa.exe.config
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\bin\Debug\EsercizioCassa.exe
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\bin\Debug\EsercizioCassa.pdb
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\obj\Debug\EsercizioCassa.csproj.AssemblyReference.cache
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\obj\Debug\EsercizioCassa.csproj.SuggestedBindingRedirects.cache
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\obj\Debug\EsercizioCassa.csproj.CoreCompileInputs.cache
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\obj\Debug\EsercizioCassa.exe
+C:\Users\FedericaVisciglia\source\repos\EsercizioCassa\obj\Debug\EsercizioCassa.pdb
