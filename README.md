@@ -5,7 +5,7 @@ Esercizio utile soprattutto per riflettere sui modificatori di visibiltà e gara
 
 Ho potuto sperimentare l'uso di funzioni private all'interno della classe stessa e capirne la ragion d'essere.
 
-Un altro traguardo importante ha riguardato inserire come attributo di classe un oggetto, grazie al quale poter accedere o modificare l'Ogetto in questione:
-per cui l'attributo-oggetto di tipo Stampante può accedere o manipolare un oggetto Stampante all'interno della classe Cassa.
+Un altro traguardo importante ha riguardato l'uso di un attributo-oggetto di Classe, che ho usato per accedere o modificare l'Ogetto in questione.
+Infatti l'attributo-oggetto recuperaDati di tipo Stampante può accedere alla funzione StampaT() della Classe Stampante.
 
 
