@@ -17,5 +17,8 @@ Utilizzo
 Il codice include un esempio di utilizzo della classe Cassa in un'applicazione di console. 
 Viene creata un'istanza di Cassa e vengono simulate la registrazione di acquisti e la chiusura di cassa.
 
+Requisiti
+Lingua: C#
+
 Autore
 [Federica Visciglia]
